@@ -1,1 +1,1 @@
-# HW2_ParernTriangle.py
+ParernTriangle.py
